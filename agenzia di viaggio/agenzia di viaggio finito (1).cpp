@@ -16,7 +16,6 @@ Il progranmma dovrà prevedere il controlo dell'input in modo che non possano es
 inseriti codici di destinazioni diversi da quelli prestabiliti.
 Se il cliente ha bagagli in stiva visualizzare il messaggio "recarsi per il check-in allo sportello 8"
 */
-#include <string>
 #include <iostream>
 using namespace std;
 int main(){
