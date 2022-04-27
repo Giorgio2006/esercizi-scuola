@@ -1,0 +1,5 @@
+Realizzare un programma che permetta di simulare la gestione di un ATM (Automated Teller Machine).
+1-L'ATM ha una disponibilità iniziale di 6.000€;
+2-L'utente può effetuare sia prelievi che versamenti; 
+3-Il limite gionaliero di prelievo è di 150€;
+4-Per ogni transazione è necessario indicare il PIN
